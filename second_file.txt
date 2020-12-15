@@ -1,0 +1,4 @@
+this is second file
+adding to stage area ,
+comminting to local master branch
+pushing file to remote
